@@ -1,7 +1,7 @@
 .hero {
   background:
     linear-gradient(135deg, rgba(230, 242, 255, 0.5) 0%, rgba(255, 255, 255, 0.4) 100%),
-    url('https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg') center/cover no-repeat;
+    url('https://images.pexels.com/photos/691668/pexels-photo-691668.jpeg') center/cover no-repeat;
   padding: 100px 20px;
   min-height: 600px;
   display: flex;
